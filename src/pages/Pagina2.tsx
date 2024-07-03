@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
-export const Pagina2 = () => {
+const Pagina2 = () => {
     const [numero1, setNumero1] = useState(0)
     const [numero2, setNumero2] = useState(0)
     const [resultado, setResultado] = useState(0)

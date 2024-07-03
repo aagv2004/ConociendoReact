@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
-export const Pagina1 = () => {
+const Pagina1 = () => {
   const [nombre, setNombre] = useState('Joselito')
   const [apellido, setApellido] = useState('Vargas')
   const [eNombre, setENombre] = useState("")
