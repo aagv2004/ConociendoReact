@@ -13,8 +13,8 @@ export default function Home() {
       <nav>
         <Breadcrumb>
           <Breadcrumb.Item href="Pagina1">Pagina 1</Breadcrumb.Item>
+          <Breadcrumb.Item href="Pagina2">Pagina2</Breadcrumb.Item>
           <Breadcrumb.Item href="About">About</Breadcrumb.Item>
-          <Breadcrumb.Item href="Pagina2">Pagina 2</Breadcrumb.Item>
           <Breadcrumb.Item href="Pagina3">Registrar</Breadcrumb.Item>
           <Breadcrumb.Item href="Pagina4">Ver Datos</Breadcrumb.Item>
         </Breadcrumb>
